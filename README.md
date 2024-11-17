@@ -19,6 +19,10 @@ Schedule Meetings: Users can set a meeting’s date, time, and agenda with a few
 View Meetings: A simple way to review all scheduled meetings for a specific date.
 Modify Meetings: Ability to adjust meeting details to accommodate last-minute changes.
 Delete Meetings: Effortlessly remove outdated or canceled meetings.
+
+Document Link: https://docs.google.com/document/d/1pu0A8oG-QaVLfmtPZjqB67gOxVpyr0CE-w6JwpUP3-w/edit?tab=t.0
+
+
 Effortless Navigation:
 
 A clean and intuitive user interface with calendar and time pickers for precise scheduling.
