@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="welcome_message">Welcome to AuthApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="back">Back</string>
+    <string name="getStarted">Let\'s get started!</string>
+    <string name="details">Please enter your email id and password</string>
+    <string name="personalInfo1">Personal Info</string>
+    <string name="personalInfo">Please enter your personal details</string>
+    <string name="level_selection">Level Selection</string>
+    <string name="level_selection1">Select Your Level</string>
+    <string name="level_selection2">Choose a level that best fits your current skill. You can always change your level later.</string>
+
+</resources>
